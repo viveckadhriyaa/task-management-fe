@@ -2,8 +2,6 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
-
 ## Installation
 
 ```bash
@@ -20,5 +18,4 @@ $ npm run start
 $ npm run start:dev
 
 # production mode
-$ npm run start:prod
 ```
